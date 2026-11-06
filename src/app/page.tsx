@@ -36,16 +36,17 @@ export default async function Home() {
           variant="outline"
         >
           <Sparkles aria-hidden="true" />
-          In development
+          Studio in the making
         </Badge>
 
         <h1 className="mt-6 text-4xl font-semibold tracking-tight sm:text-5xl">
-          Coming <span className="text-primary">soon.</span>
+          Custom web & AI,
+          <span className="text-primary"> coming soon.</span>
         </h1>
 
         <p className="mt-4 max-w-md text-base leading-7 text-muted-foreground sm:text-lg">
-          We&apos;re building tools to make the way you create for the web a
-          little simpler.
+          We&apos;re getting ready to build websites, web apps, and AI-powered
+          products tailored to your ideas.
         </p>
 
         <p className="mt-16 text-xs text-muted-foreground">
